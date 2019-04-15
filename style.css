@@ -1,0 +1,17 @@
+*{font-family: brandon-grotesque, sans-serif;
+font-size: 32px;}
+
+.smiley {width:5vw;height:5vw;border-radius: 50%;
+background-color:red;display:inline-block;margin-right:1vw;}
+
+button {text-decoration: none;box-shadow: none;border:none;background-color:pink;border-radius:8px;}
+
+nav {text-align:right;}
+
+body {width:100vw;}
+
+.goals {display:inline-block;}
+
+input {display:block;}
+
+.success {display:inline-block;}
